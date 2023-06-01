@@ -1,0 +1,14 @@
+{
+    "name": "Next Lang",
+    "adress": "Calle principal 123",
+    "city": "Villa Carlos Paz",
+    "phone":[156734756, 154456234],
+    "courses": [
+        {
+            "title": "",
+            "level": "",
+            "duration": "",
+            "price": ""
+        }
+    ]
+}
