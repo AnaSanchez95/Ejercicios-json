@@ -1,10 +1,127 @@
 {
-    "name": "",
-    "number":"",
-    "members":[
-        {
-            "name":"",
-            "discord": ""
-        }
-    ]
+  "equipo": "FusionCoders",
+  "numero": 3,
+  "integrantes": [
+    {
+      "nombre": "Ana",
+      "discord": "Ana",
+	  "github": "AnaSanchez95",
+	  "gmail": "anafebrero1995@gmail.com",
+	  "pais": "España",
+	  "conocimientos": ["HTML", "CSS", "JavaScript", "Java"]	  
+    },
+    {
+      "nombre": "Edgar Javier Castiblanco",
+      "discord": "Edgar",
+	  "github": "javicast55",
+	  "gmail": "javieer55c@gmail.com",
+	  "pais": "Portugal",
+	  "conocimientos": ["HTML", "CSS", "JavaScript", "Java", "Python"]	  
+    },
+	{
+      "nombre": "Gabriela",
+      "discord": "Gabriela712",
+	  "github": "Gabriela712",
+	  "gmail": "gabrielacoa712@gmail.com",
+	  "pais": "España",
+	  "conocimientos": ["HTML", "CSS", "JavaScript", "Scratch"]	  
+    },
+	{
+      "nombre": "Gisela",
+      "discord": "Gidandrea",
+	  "github": "giselaDandrea",
+	  "gmail": "giseladandreaok@gmail.com",
+	  "pais": "Argentina",
+	  "conocimientos": []	  
+    },
+	{
+      "nombre": "Francisco",
+      "discord": "Francisco",
+	  "github": "",
+	  "gmail": "pancho_alenda@yahoo.com.ar",
+	  "pais": "España",
+	  "conocimientos": ["HTML", "CSS", "JavaScript", "React", "Java"]	  
+    },
+	{
+      "nombre": "Shockwave",
+      "discord": "",
+	  "github": "Shockwaveds",
+	  "gmail": "shockwave@planetmail.net",
+	  "pais": "Cibertron",
+	  "conocimientos": ["Linux", "VSCode", "HTML", "CSS", "Java", "Python",]	  
+    },
+	{
+      "nombre": "Gabriela",
+      "discord": "GabiC",
+	  "github": "11459-COLLAZO-GABRIELA",
+	  "gmail": "lic.gabrielacollazo137@gmail.com",
+	  "pais": "Argentina",
+	  "conocimientos": ["HTML", "CSS", "JavaScript", "Java", "C#", "SQL Server", ".NET"]	  
+    },
+	{
+      "nombre": "Alexander",
+      "discord": "Alexander",
+	  "github": "",
+	  "gmail": "alejandropastor1926@gmail.com",
+	  "pais": "España",
+	  "conocimientos": ["HTML", "CSS", "Java"]	  
+    },
+	{
+      "nombre": "Alfredo",
+      "discord": "AlfredoEncina",
+	  "github": "Alff2027",
+	  "gmail": "citywideinmobi@gmail.com",
+	  "pais": "Argentina",
+	  "conocimientos": ["FullStack", "JavaScript", "Java POO"]	  
+    },
+	{
+      "nombre": "Sofía",
+      "discord": "SofiaRE",
+	  "github": "SofiaReGareis",
+	  "gmail": "aregareis@gmail.com",
+	  "pais": "Argentina",
+	  "conocimientos": ["HTML", "CSS", "JavaScript", "PHP", "SQL Server", "Java", "C#", "ASP.NET"]	  
+    },
+	{
+      "nombre": "Melitza",
+      "discord": "Melitza",
+	  "github": "Melitza-dev",
+	  "gmail": "melitza.ortiz.gomez@gmail.com",
+	  "pais": "España",
+	  "conocimientos": ["HTML", "CSS", "Java"]	  
+    },
+	{
+      "nombre": "Jeampierr",
+      "discord": "Jjimenezc",
+	  "github": "jeampierrjimenez",
+	  "gmail": "j.jimenezchero@gmail.com",
+	  "pais": "Perú",
+	  "conocimientos": ["HTML", "CSS", "JavaScript", "Python"]	  
+    },
+	{
+      "nombre": "Aydee",
+      "discord": "AydeeToledo",
+	  "github": "Aydee2000",
+	  "gmail": "aydeeysabeltoledo@gmail.com",
+	  "pais": "Argentina",
+	  "conocimientos": ["HTML", "CSS", "JavaScript", "Java"]	  
+    },
+	{
+      "nombre": "Mercedes",
+      "discord": "MercyCroft",
+	  "github": "mercedesar",
+	  "gmail": "araujorodriguezm@gmail.com",
+	  "pais": "Venezuela",
+	  "conocimientos": ["HTML", "CSS", "JavaScript", "PHP", "Mysql"]
+    },
+	{
+      "nombre": "Alisson",
+      "discord": "Alisson.daw",
+	  "github": "Alisson-eh",
+	  "gmail": "daw.alisson@gmail.com",
+	  "pais": "España",
+	  "conocimientos": ["HTML", "CSS", "Java", "XSL", "XML", "JSON", "Mysql"]
+    },
+	
+  ]
 }
