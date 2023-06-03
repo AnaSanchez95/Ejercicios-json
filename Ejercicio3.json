@@ -17,32 +17,32 @@
                                 "Explicación": "El Tajo tiene una longitud de 1.007 km."
                             },
                             "2":{
-                                "enunciado": "",
+                                "enunciado": "¿Cuantos países hay en el mundo?",
                                 "opciones":{
-                                        "A": "",
-                                        "B": "",
-                                        "C": "",
-                                        "D": ""
+                                        "A": 185,
+                                        "B": 195,
+                                        "C": 190,
+                                        "D": 175
                                     },
-                                "Respuesta": "",
-                                "Explicación": ""
+                                "Respuesta": "B",
+                                "Explicación": "En el mundo hay 195 países"
                             },
                             "3":{
-                                "enunciado": "",
+                                "enunciado": "Cuál es el país más grande del mundo",
                                 "opciones":{
-                                        "A": "",
-                                        "B": "",
-                                        "C": "",
-                                        "D": ""
+                                        "A": "China",
+                                        "B": "Canadá",
+                                        "C": "Rusia",
+                                        "D": "Groenlandia"
                                     },
-                                "Respuesta": "",
-                                "Explicación": ""
+                                "Respuesta": "C",
+                                "Explicación": "Con 17,1 millones de kilometros cuadrados, Rusia es el páis más grande del mundo"
                             }
                     }     
                 },
                        
             "arte y literatura": {              
-                "color": "",
+                "color": "Marrón",
                 "preguntas":{
                         "1":{
                             "enunciado": "",
@@ -80,7 +80,121 @@
                 }     
             },
             "historia": {              
-                "color": "",
+                "color": "Amarillo",
+                "preguntas":{
+                        "1":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "2":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "3":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        }
+                }     
+            },
+            "entretenimiento": {              
+                "color": "Rosa",
+                "preguntas":{
+                        "1":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "2":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "3":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        }
+                }     
+            },
+            "ciencias y naturaleza": {              
+                "color": "Verde",
+                "preguntas":{
+                        "1":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "2":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "3":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        }
+                }     
+            },
+            "deportes y pasatiempo": {              
+                "color": "Naranja",
                 "preguntas":{
                         "1":{
                             "enunciado": "",
