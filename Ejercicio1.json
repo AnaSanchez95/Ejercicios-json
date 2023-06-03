@@ -1,14 +1,28 @@
 {
-    "name": "Next Lang",
-    "adress": "Calle principal 123",
-    "city": "Villa Carlos Paz",
-    "phone":[156734756, 154456234],
-    "courses": [
-        {
-            "title": "",
-            "level": "",
-            "duration": "",
-            "price": ""
+"academy": {
+            "name": "Next Lang",
+            "adress": "Calle principal 123",
+            "city": "Villa Carlos Paz",
+            "phone":[156734756, 154456234],
+            "courses": [
+                {
+                    "title": "Inglés básico",
+                    "level": "Principiante",
+                    "duration": "4 semanas",
+                    "price": "100 dólares"
+                },
+                {
+                    "title": "Inglés Avanzado",
+                    "level": "Avanzado",
+                    "duration": "20 semanas",
+                    "price": "400 dólares"
+                },
+                {
+                    "title": "Italiano básico",
+                    "level": "Principiante",
+                    "duration": "5 semanas",
+                    "price": "120 dólares"
+                }
+            ]
         }
-    ]
 }
