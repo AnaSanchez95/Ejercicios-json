@@ -83,37 +83,37 @@
                 "color": "Amarillo",
                 "preguntas":{
                         "1":{
-                            "enunciado": "",
+                            "enunciado": "¿Cuándo comienza la primera guerra mundial?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "1915",
+                                    "B": "1905",
+                                    "C": "1924",
+                                    "D": "1914"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "D",
+                            "Explicación": "El inicio de la primera guerra mundial ocurrio en 1914, tras el asesinato del archiduque Francisco Fernando, heredero de la corona astrohúngara."
                         },
                         "2":{
-                            "enunciado": "",
+                            "enunciado": "¿Qué dinastía fue considerada la Edad de Oro en la historia china?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Dinastía Jin",
+                                    "B": "Dinastía Ming",
+                                    "C": "Dinastía Han",
+                                    "D": "Dinastía Liang"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "B",
+                            "Explicación": "Durante el gobierno de la dinastía Ming, china vivio una época dorada con conexions comerciales y culturales que la llevaron a ser una superpotencia global"
                         },
                         "3":{
-                            "enunciado": "",
+                            "enunciado": "¿En qué océano se hundió el Titanic?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Atlantico",
+                                    "B": "Pacífico",
+                                    "C": "Índico",
+                                    "D": "Glaciar Ártico"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "A",
+                            "Explicación": "El titanic fue un trasatlántico británico que naufragó en el el oceano Atlantico en 1912, tras chocar con un iceberg"
                         }
                 }     
             },
