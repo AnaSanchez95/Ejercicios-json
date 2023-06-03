@@ -1,8 +1,122 @@
 {
-    "Geografia": [
-        {
-            "pregunta": "",
-            "respuestas": ""
-        }
-    ]
+    "juego": {
+        "nombre": "Trivial",
+        "categorias":{            
+            "geografía": {              
+                    "color": "Azul",
+                    "preguntas":{
+                            "1":{
+                                "enunciado": "¿Cuál es el río más largo de la Península Ibérica?",
+                                "opciones":{
+                                        "A": "Tajo",
+                                        "B": "Ebro",
+                                        "C": "Guadiana",
+                                        "D": "Guadalquivir"
+                                    },
+                                "Respuesta": "A",
+                                "Explicación": "El Tajo tiene una longitud de 1.007 km."
+                            },
+                            "2":{
+                                "enunciado": "",
+                                "opciones":{
+                                        "A": "",
+                                        "B": "",
+                                        "C": "",
+                                        "D": ""
+                                    },
+                                "Respuesta": "",
+                                "Explicación": ""
+                            },
+                            "3":{
+                                "enunciado": "",
+                                "opciones":{
+                                        "A": "",
+                                        "B": "",
+                                        "C": "",
+                                        "D": ""
+                                    },
+                                "Respuesta": "",
+                                "Explicación": ""
+                            }
+                    }     
+                },
+                       
+            "arte y literatura": {              
+                "color": "",
+                "preguntas":{
+                        "1":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "2":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "3":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        }
+                }     
+            },
+            "historia": {              
+                "color": "",
+                "preguntas":{
+                        "1":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "2":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        },
+                        "3":{
+                            "enunciado": "",
+                            "opciones":{
+                                    "A": "",
+                                    "B": "",
+                                    "C": "",
+                                    "D": ""
+                                },
+                            "Respuesta": "",
+                            "Explicación": ""
+                        }
+                }     
+            }
+        }        
+    }
 }
