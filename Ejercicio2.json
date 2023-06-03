@@ -1,10 +1,182 @@
 {
-    "name": "",
-    "number":"",
+    "name": "FusionCoders",
+    "number": 3,
     "members":[
         {
-            "name":"",
-            "discord": ""
+            "name":"Ana",
+            "discord": "Ana",
+            "programming knowledge": [
+                "HTML Básico",
+                "CSS Básico",
+                "JS Básico",
+                "Java Muy Básico"
+            ]
+        },
+        {
+            "name":"Edgar",
+            "discord": "Edgar Javier Castiblanco",
+            "programming knowledge": [
+                "HTML Básico",
+                "CSS Básico",
+                "JS Básico",
+                "Java Básico",
+                "Python Básico"
+            ]
+        },
+        {
+            "name":"Gabriela",
+            "discord": "Gabriela712",
+            "programming knowledge": [
+                "HTML Básico",
+                "CSS Básico",
+                "JS Básico",
+                "Scratch Básico"
+            ]
+        },
+        {
+            "name":"Gisela",
+            "discord": "Gidandrea",
+            "programming knowledge": [
+                "nada"                
+            ]
+        },
+        {
+            "name":"Francisco",
+            "discord": "Francisco",
+            "programming knowledge": [
+                "HTML Intermedio",
+                "CSS Intermedio",
+                "JS Intermedio",
+                "React",
+                "Java Intermedio"
+            ]
+        },
+        {
+            "name":"?",
+            "discord": "Shockwave",
+            "programming knowledge": [
+                "Linux Intermedio",
+                "HTML Básico",
+                "CSS Básico",
+                "JS Básico",
+                "Java Básico",
+                "Python Básico",
+                "AWS & Azure Basic"
+            ]
+        },
+        {
+            "name":"Gabriela",
+            "discord": "GabiC",
+            "programming knowledge": [
+                "HTML Básico",
+                "CSS Básico",
+                "JS Básico",
+                "Java Intermedio",
+                "C#",
+                "SQL Server",
+                "NET"
+            ]
+        },
+        {
+            "name":"Alexander",
+            "discord": "Alexander",
+            "programming knowledge": [
+                "HTML Básico",
+                "CSS Básico",
+                "Java Muy Básico"
+            ]
+        },
+        {
+            "name":"Alfredo",
+            "discord": "AlfredoEncina",
+            "programming knowledge": [
+                "FullStack JS",
+                "Java Avanzado"
+            ]
+        },
+        {
+            "name":"Sofia",
+            "discord": "SofiaRE",
+            "programming knowledge": [
+                "HTML",
+                "CSS",
+                "JS",
+                "Java",
+                "PHP",
+                "SQL Server",
+                "C#",
+                "ASP.NET"
+            ]
+        },
+        {
+            "name":"Melitza",
+            "discord": "Melitza",
+            "programming knowledge": [
+                "HTML Básico",
+                "CSS Básico",
+                "Java Muy Básico"
+            ]
+        },
+        {
+            "name":"Jeampierr",
+            "discord": "Jjimenezc",
+            "programming knowledge": [
+                "HTML Básico",
+                "CSS Básico",
+                "JS Básico",
+                "Phython Intermedio"
+            ]
+        },
+        {
+            "name":"?",
+            "discord": "Whoisjime",
+            "programming knowledge": [
+                "?"
+            ]
+        },
+        {
+            "name":"Ana",
+            "discord": "Ana",
+            "programming knowledge": [
+                "HTML Básico",
+                "CSS Básico",
+                "JS Básico",
+                "Java Muy Básico"
+            ]
+        },
+        {
+            "name":"Aydee",
+            "discord": "AydeeToledo",
+            "programming knowledge": [
+                "HTML Básico",
+                "CSS Básico",
+                "JS Básico",
+                "Java Básico"
+            ]
+        },
+        {
+            "name":"Mercedes",
+            "discord": "MercyCroft",
+            "programming knowledge": [
+                "HTML",
+                "CSS",
+                "JS",
+                "PHP",
+                "MySQL"
+            ]
+        },
+        {
+            "name":"Alisson",
+            "discord": "Alisson.daw",
+            "programming knowledge": [
+                "HTML",
+                "CSS",
+                "Java",
+                "XSL",
+                "XML",
+                "JSON",
+                "MySQL Básico"
+            ]
         }
     ]
 }
