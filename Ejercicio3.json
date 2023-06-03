@@ -36,7 +36,7 @@
                                         "D": "Groenlandia"
                                     },
                                 "Respuesta": "C",
-                                "Explicación": "Con 17,1 millones de kilometros cuadrados, Rusia es el páis más grande del mundo"
+                                "Explicación": "Con 17,1 millones de kilometros cuadrados, Rusia es el páis más grande del mundo."
                             }
                     }     
                 },
@@ -45,37 +45,37 @@
                 "color": "Marrón",
                 "preguntas":{
                         "1":{
-                            "enunciado": "",
+                            "enunciado": "¿En qué color pintaba los jardineros las rosas en 'Alicia en el país de las Maravillas?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Blancas",
+                                    "B": "Rosas",
+                                    "C": "Rojas",
+                                    "D": "Amarillas"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "C",
+                            "Explicación": "En la novela de Lewis Carroll, Alicia en el país de las maravillas, los jardinero de la reina pintaban las rosas de color rojo."
                         },
                         "2":{
-                            "enunciado": "",
+                            "enunciado": "Cuantos cuartetos tiene un soneto?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "4",
+                                    "B": "6",
+                                    "C": "8",
+                                    "D": "2"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "D",
+                            "Explicación": "Un soneto es una composición poética compuesta por dos cuartetos y dos tercetos."
                         },
                         "3":{
-                            "enunciado": "",
+                            "enunciado": "¿Dónde nació el pintor Luis de Morales?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Badajoz",
+                                    "B": "Madrid",
+                                    "C": "Sevilla",
+                                    "D": "Alicante"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "A",
+                            "Explicación": "Luis de Morales fue un pintor del siglo XVI de estilo manierista, que nació en la provincia de Badajoz"
                         }
                 }     
             },
