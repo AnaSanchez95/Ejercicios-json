@@ -102,7 +102,7 @@
                                     "D": "Dinastía Liang"
                                 },
                             "Respuesta": "B",
-                            "Explicación": "Durante el gobierno de la dinastía Ming, china vivio una época dorada con conexions comerciales y culturales que la llevaron a ser una superpotencia global"
+                            "Explicación": "Durante el gobierno de la dinastía Ming, china vivio una época dorada con conexions comerciales y culturales que la llevaron a ser una superpotencia global."
                         },
                         "3":{
                             "enunciado": "¿En qué océano se hundió el Titanic?",
@@ -113,7 +113,7 @@
                                     "D": "Glaciar Ártico"
                                 },
                             "Respuesta": "A",
-                            "Explicación": "El titanic fue un trasatlántico británico que naufragó en el el oceano Atlantico en 1912, tras chocar con un iceberg"
+                            "Explicación": "El titanic fue un trasatlántico británico que naufragó en el el oceano Atlantico en 1912, tras chocar con un iceberg."
                         }
                 }     
             },
@@ -121,37 +121,37 @@
                 "color": "Rosa",
                 "preguntas":{
                         "1":{
-                            "enunciado": "",
+                            "enunciado": "¿Quien es la actriz protagonista de 'Deayuno con diamantes'?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Joyce Van Patten",
+                                    "B": "Audrey Hepburn",
+                                    "C": "Ava Gardner",
+                                    "D": "Martha Vickers"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "B",
+                            "Explicación": "Desayuno con diamantes es una película de 1961, dirigida por Blake Edwards y protagonizada por Audrey Hepburn y George Peppard."
                         },
                         "2":{
-                            "enunciado": "",
+                            "enunciado": "¿En qué película se originó la expresión 'supercalifragilisticoespialidoso'?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Antes llega la muerte",
+                                    "B": "The Pumpkin Eater",
+                                    "C": "Querido John",
+                                    "D": "Mary Poppins"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "D",
+                            "Explicación": "Mary Poppins es una película musical de fantasia de 1964, dirigida por Robert Stevenson. "
                         },
                         "3":{
-                            "enunciado": "",
+                            "enunciado": "¿Cómo se llamaba el cantante de Queen?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Federico García",
+                                    "B": "Freddie Mercury.",
+                                    "C": "John Lydon",
+                                    "D": "Kurt Cobain"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "B",
+                            "Explicación": "Freddy Mercury fue el cantante y pianista de la banda de rock Queen, formada en 1970."
                         }
                 }     
             },
