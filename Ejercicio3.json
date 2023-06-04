@@ -159,37 +159,37 @@
                 "color": "Verde",
                 "preguntas":{
                         "1":{
-                            "enunciado": "",
+                            "enunciado": "¿En qué mes el Sol está más cerca de la Tierra??",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Agosto",
+                                    "B": "Enero",
+                                    "C": "Julio",
+                                    "D": "Noviembre"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "B",
+                            "Explicación": "Entre el 3 y el 4 de enero el sol se situa a una distancia de la tierra de alrededor de 147,10 millones de kilometros, la más cercana en todo el año."
                         },
                         "2":{
-                            "enunciado": "",
+                            "enunciado": "¿Cuántos elementos tiene la tabla periódica?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "125",
+                                    "B": "110",
+                                    "C": "120",
+                                    "D": "118"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "D",
+                            "Explicación": "Actualmente la tabla periódica cuenta con 118 elementos, distribuidos en tres grandes categorías: Metales, Metaloides y No Metales."
                         },
                         "3":{
-                            "enunciado": "",
+                            "enunciado": "¿Qué gas de la atmósfera nos protege de la radiación ultravioleta?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Helio",
+                                    "B": "Nitrógeno",
+                                    "C": "Oxigeno",
+                                    "D": "Ozono"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "D",
+                            "Explicación": "La denominada capa de ozono recubre a la tierra y minimiza la cantidad de radiación que llega a la corteza terrestre."
                         }
                 }     
             },
