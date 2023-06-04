@@ -1,8 +1,65 @@
-{
-    "Geografia": [
-        {
-            "pregunta": "",
-            "respuestas": ""
+    {
+  "name": "Trivia de Preguntas y Respuestas",
+        "questions": [
+            {
+            "question" : "¿A que temperatura hierve el agua en grados Celsius?",
+            "option": ["80", "120","300","100"],
+            "correct": "100",
+            "reason": "El agua hierve a 100 grados Celsius al nivel del mar al nivel del mar, bajo condiciones normales de presión atmosférica. Sin embargo, la temperatura de ebullición del agua puede variar según la altitud y la presión atmosférica."
+        },
+            {
+            "question" : "¿El sol es una estrella?",
+            "option": ["Si", "No"],
+            "correct": "Si",
+            "reason": "El sol es una estrella de tipo G, específicamente una estrella enana amarilla. Es la estrella más cercana a la Tierra y es responsable de proporcionar la luz y el calor necesarios para mantener la vida en nuestro planeta."
+        },
+            {
+            "question" : "¿La luna tiene luz propia?",
+            "option": ["Si", "No"],
+            "correct": "No",
+            "reason": "La luna no tiene luz propia. En cambio, refleja la luz del sol. La luz solar se refleja en la superficie de la luna y la hace visible para nosotros desde la Tierra en diferentes fases lunares."
+        },
+            {
+            "question" : "¿La Tierra es el planeta más grande del sistema solar?",
+            "option": ["Si", "No"],
+            "correct": "No",
+            "reason": "La Tierra no es el planeta más grande del sistema solar. Es el quinto planeta más grande. El planeta más grande es Júpiter, seguido de Saturno, Urano y Neptuno."
+        },
+            {
+            "question" : "¿Cual es la velocidad de la luz aproximadamente en kilómetros por segundo?",
+            "option": ["300.000", "260.000","400.000"],
+            "correct": "300.000",
+            "reason": "La velocidad de la luz en el vacío se aproxima a 299,792 kilómetros por segundo, que es redondeado a aproximadamente 300,000 kilómetros por segundo. Esta es una velocidad extremadamente rápida y es una constante fundamental en la física."
+        },
+            {
+            "question" : "¿El ser humano tiene 206 huesos en su cuerpo?",
+            "option": ["Si", "No"],
+            "correct": "No",
+            "reason": "Los adultos tienen alrededor de 206 huesos en su cuerpo, pero los bebés tienen más de 300 huesos. A medida que crecemos, algunos huesos se fusionan, lo que resulta en un menor número total de huesos."
+        },
+            {
+            "question" : "¿La Gran Muralla China es visible desde el espacio?",
+            "option": ["Si", "No"],
+            "correct": "No",
+            "reason": "A pesar de ser una estructura impresionante, la Gran Muralla China no es visible a simple vista desde el espacio. Es difícil ver cualquier objeto específico en la superficie de la Tierra desde la órbita, incluso con tecnología avanzada."
+        },
+            {
+            "question" : " ¿El pingüino es un ave?",
+            "option": ["Si", "No"],
+            "correct": "Si",
+            "reason": "Aunque los pingüinos no vuelan, son aves. Son aves marinas adaptadas a la vida en el agua y tienen características como plumas, pico y ponen huevos, lo que los clasifica como aves."
+        },
+            {
+            "question" : "¿El oxígeno es el elemento más abundante en la atmósfera de la Tierra?",
+            "option": ["Si", "No"],
+            "correct": "No",
+            "reason": "El nitrógeno es el elemento más abundante en la atmósfera de la Tierra, representando aproximadamente el 78% de su composición. El oxígeno ocupa el segundo lugar, con alrededor del 21%."
+        },
+            {
+            "question" : "¿El Monte Everest es la montaña más alta del mundo?",
+            "option": ["Si", "No"],
+            "correct": "Si",
+            "reason": "Con una altura de 8,848 metros (29,029 pies), el Monte Everest es la montaña más alta del mundo sobre el nivel del mar. Se encuentra en la cordillera del Himalaya, en la frontera entre Nepal y China."
         }
     ]
 }
