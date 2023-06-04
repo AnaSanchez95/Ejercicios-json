@@ -197,37 +197,37 @@
                 "color": "Naranja",
                 "preguntas":{
                         "1":{
-                            "enunciado": "",
+                            "enunciado": "¿En qué ciudad nació Leo Messi?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Rosario",
+                                    "B": "Buenos Aires",
+                                    "C": "Córdoba",
+                                    "D": "Mar del Plata"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "B",
+                            "Explicación": "Leo Messi es un jugador de futbol argentino que nació en la ciudad de Rosario en 1987."
                         },
                         "2":{
-                            "enunciado": "",
+                            "enunciado": "¿En qué deporte destacó Carl Lewis?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Natación",
+                                    "B": "Atletismo",
+                                    "C": "Tenis",
+                                    "D": "Baloncesto"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "B",
+                            "Explicación": "Carl Lewis es un atleta estadounidense que alcanzando el record de 10 medallas en mundiales de atletismo."
                         },
                         "3":{
-                            "enunciado": "",
+                            "enunciado": "¿Quién se proclamó como campeón del mundo en 2017 en la categoría de MotoGP?",
                             "opciones":{
-                                    "A": "",
-                                    "B": "",
-                                    "C": "",
-                                    "D": ""
+                                    "A": "Giacomo Agostini",
+                                    "B": "Marc Márquez.",
+                                    "C": "Ángel Nieto",
+                                    "D": "Valentino Rossi"
                                 },
-                            "Respuesta": "",
-                            "Explicación": ""
+                            "Respuesta": "B",
+                            "Explicación": "Marc Márquez es un piloto de motociclismo español que ha ganado 6 títulos del campeonato del mundo de motociclismo en MotoGP,"
                         }
                 }     
             }
