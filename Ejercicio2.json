@@ -1,10 +1,127 @@
 {
-    "name": "",
-    "number":"",
-    "members":[
-        {
-            "name":"",
-            "discord": ""
-        }
-    ]
+  "name": "FusionCoders",
+        "quantity": "15",
+            "members": [
+                {
+                    "discord" : "Ana",
+                    "name" : "Ana",
+                    "gitHub" : "AnaSanchez95",
+                    "email" : "anafebrero1995@gmail.com",
+                    "knowledge" : ["HTML Básico","CSS Básico","JS Básico","Java Muy Básico"],
+                    "pais" : "España"
+                },
+                {
+                    "discord" : "Edgar Javier Castiblanco",
+                    "name" : "Edgar",
+                    "gitHub" : "javicast55",
+                    "email" : "javieer55c@gmail.com",
+                    "knowledge" : ["HTML Básico", "CSS Básico", "JS Básico"," Java Básico"," Python Basico"],
+                    "pais" : "Portugal"
+                },
+                {
+                    "discord" : "Gabriela712",
+                    "name" : "Gabriela",
+                    "gitHub" : "Gabriela712",
+                    "email" : "gabrielacoa712@gmail.com",
+                    "knowledge" : ["HTML Basico", "CSS Basico", "Javascript Basico", " Scratch Basico"],
+                    "pais" : "España"
+                },
+                {
+                    "discord" : "Gidandrea",
+                    "name" : "Gisela",
+                    "gitHub" : "giselaDandrea",
+                    "email" : "giseladandreaok@gmail.com",
+                    "knowledge" : "",
+                    "pais" : "Argentina"
+                },
+                {
+                    "discord" : "Francisco",
+                    "name" : "Francisco",
+                    "gitHub" : "panchoalenda",
+                    "email" : "pancho_alenda@yahoo.com.ar",
+                    "knowledge" : ["HTML Intermedio", "CSS Intermedio", "JS Intermedio", "React", "Java Intermedio"],
+                    "pais" : "España"
+                },
+                {
+                    "discord" : "Shockwave",
+                    "name" : "",
+                    "gitHub" : "shockwaveds",
+                    "email" : "shockwave@planetmail.net",
+                    "knowledge" : ["Linux Intermedio", "VSCode Basic", "HTML & CSS - Basic", "Java - Basic",
+                    "AWS & Azure Basic", "Nmap basic", "English Level A2", "Python - Basic"],
+                    "pais" : "Cibertron"
+                },
+                {
+                    "discord" : "GabiC",
+                    "name" : "Gabriela",
+                    "gitHub" : "114259-COLLAZO-GABRIELA",
+                    "email" : "lic.gabrielacollazo137@gmail.com",
+                    "knowledge" : ["HTML Básico", "CSS Básico", "JS Básico", "Java Intermedio", "C#", "SQL Server", ".NET"],
+                    "pais" : "Argentina"
+                },
+                {
+                    "discord" : "Alexander",
+                    "name" : "Alexander",
+                    "gitHub" : "",
+                    "email" : "alejandropastor1926@gmail.com",
+                    "knowledge" : ["HTML Básico", "CSS Básico", "Java Muy Básico"],
+                    "pais" : "España"
+                },
+                {
+                    "discord" : "AlfredoEncina",
+                    "name" : "Alfredo",
+                    "gitHub" : "Alff2027",
+                    "email" : "citywideinmobi@gmail.com",
+                    "knowledge" : ["Soy FullStack en JS", "Java POO avanzado"],
+                    "pais" : "Argentina"
+                },
+                {
+                    "discord" : "SofiaRE",
+                    "name" : "Sofía",
+                    "gitHub" : "SofiaReGareis",
+                    "email" : "aregareis@gmail.com",
+                    "knowledge" : ["HTML", "CSS", "JavaScript", "PHP", "SQL Server", "Java", "C#", "ASP.NET"],
+                    "pais" : "Argentina"
+                },
+                {
+                    "discord" : "Melitza",
+                    "name" : "Melitza",
+                    "gitHub" : "Melitza-dev",
+                    "email" : "melitza.ortiz.gomez@gmail.com",
+                    "knowledge" : ["HTML Básico", "CSS Básico", "Java Muy Básico"],
+                    "pais" : "España"
+                },
+                {
+                    "discord" : "Jjimenezc",
+                    "name" : "Jeampierr",
+                    "gitHub" : "jeampierrjimenez",
+                    "email" : "j.jimenezchero@gmail.com",
+                    "knowledge" : ["Python Intermedio", "HTML Básico", "CSS Básico", "JavaScript Básico"],
+                    "pais" : "Perú"
+                },
+                {
+                    "discord" : "Whoisjime ",
+                    "name" : "",
+                    "gitHub" : "",
+                    "email" : "",
+                    "knowledge" : "",
+                    "pais" : ""
+                },
+                {
+                    "discord" : "AydeeToledo",
+                    "name" : "Aydee",
+                    "gitHub" : "Aydee2000",
+                    "email" : "aydeeysabeltoledo@gmail.com",
+                    "knowledge" : ["HTML Básico", "CSS Básico", "JavaScript Básico", "Java Básico"],
+                    "pais" : "Argentina"
+                },
+                {
+                    "discord" : "MercyCroft",
+                    "name" : "Mercedes ",
+                    "gitHub" : "mercedesar",
+                    "email" : "araujorodriguezm@gmail.com",
+                    "knowledge" : ["HTML", "CSS", "JavaScript", "PHP", "Mysq"],
+                    "pais" : "Venezuela"
+                }
+            ]
 }
