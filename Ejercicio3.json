@@ -1,8 +1,59 @@
+
 {
-    "Geografia": [
-        {
-            "pregunta": "",
-            "respuestas": ""
-        }
-    ]
+    "juego": "Preguntas y Respuestas",
+          "preguntas": [
+              {
+                 "pregunta": "¿Quién dirigió la película 'Pulp Fiction'?",
+                 "opciones": ["Quentin Tarantino", "James Cameron","Steven Spiverg","Mel Gibson"],
+                  "respuesta": "Quentin Tarantino"
+               },
+               {
+                "pregunta": "¿Quién interpreta el papel de Iron Man en el Universo Cinematográfico de Marvel?",
+                "opciones":["James Franco", "Zac Efron", "Tom Holland", "Robert Dawney Jr."],
+                "respuesta": "Robert Downey Jr."
+              },
+              {
+                "pregunta": "¿Cuál es la película más taquillera de todos los tiempos?",
+                "opciones":["Titanic", "Avatar", "Forrest Gump", "Advengers: Endgame"],
+                "respuesta": ["Avengers: Endgame"]
+              },
+              {
+                "pregunta": "¿En qué año se estrenó la primera película de Star Wars?",
+                "opciones":["1987", "1978", "1994", "1977"],
+                "respuesta": "1977"
+              },
+              {
+                "pregunta": "¿Cuál es el director de la trilogía 'El Padrino'?",
+                "opciones": ["Steven Spielberg", "Ingmar Bergman","Federico Fellini","Francis Ford Coppola"],
+                "respuesta": "Francis Ford Coppola"
+              },
+              {
+                "pregunta": "¿En qué año se estrenó la película 'El Padrino'?",
+                "opciones":["1987", "1979", "1998", "1972"],
+                "respuesta": "1972"
+              },
+              {
+                "pregunta": "¿Quién interpretó el papel de Neo en 'The Matrix'?",
+                "opciones":["James Franco", "Bradley Copper", "Tom Hanks", "Keanu Reeves"],
+                "respuesta": "Keanu Reeves"
+              },
+              {
+              "pregunta": "¿En qué película aparece el personaje de Hannibal Lecter?",
+              "opciones":["Dragon", "Puerta al Infierno", "La noche del demonio", "El silencio de los inocentes"],
+              "respuesta": "El silencio de los inocentes"
+              },
+             {
+              "pregunta": "¿Cuantas peliculas tiene la saga 'Rapido y Furioso'?",
+              "opciones":["10", "8", "5", "3"],
+              "respuesta": "10"
+            },
+
+            {
+             "pregunta": "¿Cuál es el actor principal de la película 'Forrest Gump'?",
+             "opciones": ["Bruce Willis", "Arnold Schwarzenegger","Sylvester Stallone","Tom Hanks"],
+             "respuestas": "Tom Hanks"
+            }
+   ]
 }
+
+
