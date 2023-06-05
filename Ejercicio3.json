@@ -58,10 +58,10 @@
                         "2":{
                             "enunciado": "Cuantos cuartetos tiene un soneto?",
                             "opciones":{
-                                    "A": "4",
-                                    "B": "6",
-                                    "C": "8",
-                                    "D": "2"
+                                    "A": 4,
+                                    "B": 6,
+                                    "C": 8,
+                                    "D": 2
                                 },
                             "Respuesta": "D",
                             "Explicación": "Un soneto es una composición poética compuesta por dos cuartetos y dos tercetos."
