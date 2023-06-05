@@ -1,8 +1,34 @@
 {
-    "Geografia": [
-        {
-            "pregunta": "",
-            "respuestas": ""
-        }
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es la capital de Francia?",
+        "opciones": ["Londres", "Madrid", "París", "Roma"],
+        "respuesta_correcta": 2,
+        "explicacion": "La respuesta correcta es París porque es la capital de Francia. Londres es la capital del Reino Unido, Madrid es la capital de España y Roma es la capital de Italia."
+      },
+      {
+        "enunciado": "¿Quién pintó La Mona Lisa?",
+        "opciones": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Frida Kahlo"],
+        "respuesta_correcta": 0,
+        "explicacion": "La respuesta correcta es Leonardo da Vinci. Él fue un famoso artista renacentista italiano y La Mona Lisa es una de sus obras más conocidas."
+      },
+      {
+        "enunciado": "¿Cuál es el océano más grande del mundo?",
+        "opciones": ["Océano Atlántico", "Océano Índico", "Océano Pacífico", "Océano Ártico"],
+        "respuesta_correcta": 2,
+        "explicacion": "La respuesta correcta es el Océano Pacífico. Es el océano más grande del mundo en términos de superficie y cubre aproximadamente un tercio de la superficie total de la Tierra."
+      },
+      {
+        "enunciado": "¿Cuál es el animal terrestre más grande del mundo?",
+        "opciones": ["Elefante africano", "Rinoceronte blanco", "Jirafa", "Hipopótamo"],
+        "respuesta_correcta": 2,
+        "explicacion": "La respuesta correcta es la Jirafa. Es el animal terrestre más grande del mundo, con una altura promedio de alrededor de 5,5 metros. Los elefantes africanos son los animales terrestres más grandes en términos de peso."
+      },
+      {
+        "enunciado": "¿Quién es el mejor profesor backend del mundo actualmente?",
+        "opciones": ["Jeff Bezos", "Elon Musk", "Steve Jobs", "Lucas Moy"],
+        "respuesta_correcta": 4,
+        "explicacion": "La respuesta correcta es Lucas Moy. Él es actualmente el mejor profesor backend del mundo tras la inauguración de ATL Academy. Los servidores se emocionan cada vez que él escribe una línea de código. Su teclado es una extensión de su cuerpo y su café de la mañana es en realidad una inyección de energía codificada en Java. Su capacidad para solucionar errores es tan rápida que los mensajes de error se sienten avergonzados y se corrigen por sí mismos antes de que pueda verlos. Cuando compila su código, el sonido resultante es una sinfonía de 0 y 1 que hace que los ingenieros de software lloren de alegría."
+      }
     ]
-}
+  }
