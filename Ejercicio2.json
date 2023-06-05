@@ -2,33 +2,125 @@
     "Nombre": "FusionCoders",
     "numero":"3",
     "participantes":"15"
-    "members":[
-        {
-            "nombre":"",
-            "discord": "",
-            "pais":"",
-            "conocimientos":""
-        }
-        {
-            "nombre":"",
-            "discord": "",
-            "pais":"",
-        }
-        {
-            "name":"",
-            "discord": ""
-        }
-        {
-            "name":"",
-            "discord": ""
-        }
-        {
-            "name":"",
-            "discord": ""
-        }
-        {
-            "name":"",
-            "discord": ""
-        }
+    "members":`[
+      {
+        "nombre": "Gabriela",
+        "pais": "España",
+        "discord": "Gabriela712#7987",
+        "github":"Gabriela712",
+        "email": "gabrielacoa@gmail.com"
+      },
+
+      {
+        "nombre": "Francisco",
+        "pais": "España",
+        "discord": "Francisco",
+        "github":"panchoalenda",
+        "email": "pancho_alenda@gmail.com"
+      },
+
+      {
+        "nombre": "",
+        "pais": "Cibertron",
+        "discord": "Shockwave",
+        "github":"shockwaveds",
+        "email": "shockwave@planetmail.net"
+      },
+
+      {
+        "nombre": "Gisela D'Andrea",
+        "pais": "Argentina",
+        "discord": "Gidandrea",
+        "github":"giselaDandrea",
+        "email": "giseladandreaok@gmail.com"
+      },
+
+    {
+        "nombre": "Ana",
+        "pais": "España",
+        "discord": "Ana",
+        "github": "AnaSanchez95",
+        "email": "anafebrero1995@gmail.com"
+        
+      },
+      
+      {
+        "nombre": "Edgar Javier Castiblanco",
+        "pais": "Portugal",
+        "discord": "Edgar Javier Castiblanco",
+        "github": "javicast55",
+        "email": "javieer55c@gmail.com"
+      },      
+      {
+        "nombre": "Gabriela",
+        "pais": "Argentina",
+        "discord": "GabiC",
+        "github":"114259-COLLAZO-GABRIELA",
+        "email": "lic.gabrielacollazo137@gmail.com"
+      },
+
+      {
+        "nombre": "Alexander",
+        "pais": "España",
+        "discord": "Alexander",
+        "github":"",
+        "email": "alejandropastor1926@gmail.com"
+      },
+
+      {
+        "nombre": "Alfredo Encina",
+        "pais": "Argentina",
+        "discord": "Alfredo",
+        "github":"Alff2027",
+        "email": "citywideinmobi@gmail.com"
+      },
+
+      {
+        "nombre": "Sofia",
+        "pais": "Argentina",
+        "discord": "Sofia",
+        "github":"SofiaReGareis",
+        "email": "aregareis@gmail.com"
+      },
+
+      {
+        "nombre": "Melitza",
+        "pais": "España",
+        "discord": "Melitza",
+        "github":"Melitza-dvo",
+        "email": "melitza.ortiz.gomez@gmail.com"
+      },
+
+      {
+        "nombre": "Jampierr",
+        "pais": "Peru",
+        "discord": "Jjimenezc",
+        "github":"jeampierrjimenez",
+        "email": "j.jimenezchero@gmail.com"
+      },
+
+      {
+        "nombre": "Aydee",
+        "pais": "Argentina",
+        "discord": "AydeeToledo",
+        "github":"Aydee2000",
+        "email": "aydeeysabeltoledo@gmail.com"
+      },
+
+      {
+        "nombre": "Mercedes",
+        "pais": "Venezuela",
+        "discord": "MercyCroft",
+        "github":"mercedesar",
+        "email": "aaraujorodriguezm@gmail.com"
+      },
+
+      {
+        "nombre": "Alisson",
+        "pais": "España",
+        "discord": "Alisson.daw",
+        "github":"alisson-eh",
+        "email": "daw.alisson@gmail.com"
+      }
     ]
 }
