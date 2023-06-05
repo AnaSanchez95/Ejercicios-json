@@ -1,14 +1,18 @@
 {
     "Nombre": "FusionCoders",
-    "number":"3",
+    "numero":"3",
+    "participantes":"15"
     "members":[
         {
-            "name":"",
-            "discord": ""
+            "nombre":"",
+            "discord": "",
+            "pais":"",
+            "conocimientos":""
         }
         {
-            "name":"",
-            "discord": ""
+            "nombre":"",
+            "discord": "",
+            "pais":"",
         }
         {
             "name":"",
