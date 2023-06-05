@@ -1,8 +1,44 @@
 {
-    "Geografia": [
+    "Trivia_developer": [
         {
-            "pregunta": "",
-            "respuestas": ""
+            "Pregunta 1": "¿Qué es HTML?",
+            "Opciones": [
+               "a) Un lenguaje de programación para el desarrollo web",
+               "b) Un lenguaje de marcas para crear páginas web",
+               "c) Un lenguaje de programación orientado a objetos"
+            ],
+            "Respuesta":"b",
+            "Explicacion": "Html es un lenguajes de marcas para crear paginas web."
+        },
+        {
+            "Pregunta 2": "¿Cuál de los siguientes lenguajes de programación se utiliza principalmente para el desarrollo de aplicaciones móviles nativas?",
+            "Opciones": [
+            "a) Java",
+            "b) JavaScript",
+            "c) Python"
+            ],
+            "Respuesta":"a",
+            "Explicacion": "Java se usa principalmente para el desarrolla de aplicaciones nativas."
+        },
+        {
+           "Pregunta 3": "¿Qué es Git?",
+            "Opciones": [
+            "a) Un lenguaje de programación para el desarrollo de videojuegos",
+            "b) Una herramienta de control de versiones para el seguimiento de cambios en el código",
+            "c) Una biblioteca de funciones matemáticas para cálculos complejos"
+            ],
+            "Respuesta": "b",
+            "Explicacion": "Git es una herramienta de control de versiones para el seguimiento de cambios en el codigo."
+        },
+        {
+           "Pregunta 4": "¿Qué es un algoritmo?",
+           "Opciones": [
+           "a) Un programa de computadora",
+           "b) Una estructura de datos para almacenar información",
+           "c) Un conjunto de instrucciones paso a paso para resolver un problema"
+           ],
+           "Respuesta": "c",
+           "Explicacion": "Un algoritmo es un conjunto de instrucciones paso a paso para resolver un problema."
         }
     ]
 }
