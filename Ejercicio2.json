@@ -2,7 +2,7 @@
     "Nombre": "FusionCoders",
     "numero":"3",
     "participantes":"15"
-    "members":`[
+    "members": [
       {
         "nombre": "Gabriela",
         "pais": "España",
