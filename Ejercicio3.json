@@ -85,10 +85,10 @@
                         "1":{
                             "enunciado": "¿Cuándo comienza la primera guerra mundial?",
                             "opciones":{
-                                    "A": "1915",
-                                    "B": "1905",
-                                    "C": "1924",
-                                    "D": "1914"
+                                    "A": 1915,
+                                    "B": 1905,
+                                    "C": 1924,
+                                    "D": 1914
                                 },
                             "Respuesta": "D",
                             "Explicación": "El inicio de la primera guerra mundial ocurrio en 1914, tras el asesinato del archiduque Francisco Fernando, heredero de la corona astrohúngara."
@@ -172,10 +172,10 @@
                         "2":{
                             "enunciado": "¿Cuántos elementos tiene la tabla periódica?",
                             "opciones":{
-                                    "A": "125",
-                                    "B": "110",
-                                    "C": "120",
-                                    "D": "118"
+                                    "A": 125,
+                                    "B": 110,
+                                    "C": 120,
+                                    "D": 118
                                 },
                             "Respuesta": "D",
                             "Explicación": "Actualmente la tabla periódica cuenta con 118 elementos, distribuidos en tres grandes categorías: Metales, Metaloides y No Metales."
