@@ -1,2 +1,1 @@
-# Ejercicios-json
-Ejercicios sobre JSON de la clase 3
+A partir de este JSON generame en formato JSON, una pregunta aleatoria, sin su respuesta, al yo responder la primera pregunta, tu me diras en formato JSON si es verdadero o falso con la explicacion, esto hasta finalizar con las 4 preguntas de la trivia. No necesito ninguna informacion adicional al formato JSON. No puedes repetir la pregunta.
