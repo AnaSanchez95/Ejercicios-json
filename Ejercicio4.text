@@ -1,7 +1,6 @@
-{
-    "juego": {
-        "nombre": "Trivial",
-        "categorias":{            
+Copiar y pegar:
+
+"categorias":{            
             "geografía": {              
                     "color": "Azul",
                     "preguntas":{
@@ -231,6 +230,8 @@
                         }
                 }     
             }
-        }        
-    }
-}
+        }
+
+Luego preguntar:
+
+Hazme una pregunta de esas aleatorias, mostrandome las opciones, pero sin mostrar la respuesta correcta
